@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Benjie Miao"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,68 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, IEEE Honor Class, SJTU 
+  * GPA: 91.03/100 ()
+  * First year: 90.28 (Rank 1/95)
+  * Second year: 90.11 (Rank 7/95)
+  * Third year: 92.08 (Rank 2/95)
+  * Straight-A in all CS core courses : 
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Center for High Performance Computing, SJTU. Oct. 2018 - Present
+  * Working as Research Assistant
+  * Focus: ARM Exascale HPC Prototype Performance Analysis, HPC Application Development and Optimization, Distribution ANNS System Design
+  * Supervisor: Dr. James Lin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*  Intelligent Internet of Things (IIOT) Research Center, SJTU. Jan. 2017 - Oct. 2019
+  * Working as Research Assistant
+  * Focus: Reachability Test, De-anonymization in Social Network
+  * Supervisor: Prof. Xinbing Wang, Prof. Luoyi Fu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+Projects <!-- teaching -->
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+
+  
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Parallel Programming
+  * C with Pthread/OpenMP/MPI
+  * C++ Concurrency STL
+  * Fortran with OpenMP/MPI
+  * CUDA
+* Linux Shell Programming
+  * Shell Scripts
+  * Tools: awk, grep, sed, ...  
+* Bridge
+  * **Champion** in 2018 FISU **World University Bridge Championship**
+  * Member of **China National Junior Team**
+  * **Champion** in 2017 Asia/Pacific Bridge Championship (U25 Junior Group)
+  * A number of **national champions**
+* Percussion & Drum Set
+
+ 
+Leadership & Activities
+======
+* Vice team captain of SJTU HPC Student Team
+  * Led team to participate in ASC Supercomputer Competition, Intel Parallel Application Challange(PAC), SC Student Cluster Competition
+  * Provided guidance for new team members on weekly assignment: Performance Modeling and Analyzing on HPC Mini-applications
+  * Organized and delivered HPC-related lectures to new members students on the topic of computer architecture, program optimization and Linux shell programming
