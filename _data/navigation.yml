@@ -5,17 +5,9 @@ main:
 
   - title: "CV"
     url: /cv/
-#  - title: "Talks"
-#    url: /talks/    
 
   - title: "Projects"
     url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-#  - title: "Guide"
-#    url: /markdown/
