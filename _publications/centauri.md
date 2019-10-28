@@ -3,11 +3,10 @@ title: "Centauri : A Distributed, Memory-efficient Graph-based ANNS System"
 collection: preprint
 permalink: /publication/centauri
 excerpt: 'A distributed graph-based approximatek Nearest Neighbor system'
-date: #2019-10-14
+date: 2019-01-01
 venue: ''
 paperurl: '#'
 citation: ''
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <!-- 
 Designed a distributed graph-based k Nearest Neighbor system, addressing the high memory usage issue
