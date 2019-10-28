@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, IEEE Honor Class, SJTU 
-  * GPA: 91.03/100 ()
+  * GPA: 91.03/100 (Rank 2/95)
   * First year: 90.28 (Rank 1/95)
   * Second year: 90.11 (Rank 7/95)
   * Third year: 92.08 (Rank 2/95)
-  * Straight-A in all CS core courses : 
+  * Straight-A in all CS core courses : Programming(C++), Circuits and Electronics, Data Structure, Algorithm Design and Analysis, Computer Organization, Computer System Engineering(OS), Parallel Computing and Distributed Computing, High Performance Computing
 
 Research experience
 ======
@@ -25,11 +25,10 @@ Research experience
   * Focus: ARM Exascale HPC Prototype Performance Analysis, HPC Application Development and Optimization, Distribution ANNS System Design
   * Supervisor: Dr. James Lin
 
-*  Intelligent Internet of Things (IIOT) Research Center, SJTU. Jan. 2017 - Oct. 2019
+*  Intelligent Internet of Things (IIOT) Research Center, SJTU. Jan. 2017 - Nov. 2019
   * Working as Research Assistant
   * Focus: Reachability Test, De-anonymization in Social Network
   * Supervisor: Prof. Xinbing Wang, Prof. Luoyi Fu
-  
 
 Publications
 ======
