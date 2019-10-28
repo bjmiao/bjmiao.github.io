@@ -4,7 +4,7 @@ collection: HPC
 type: "Research Assistant"
 permalink: /teaching/2-centauri
 venue: "Center for High Performance Computing, SJTU"
-date: s
+date: 2019-08-01
 location: "Shanghai, China"
 ---
 
