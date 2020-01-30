@@ -2,7 +2,7 @@
 title: "Centauri: A Distributed, Memory-efficient Graph-based kNN System"
 collection: HPC
 type: "Research Assistant"
-permalink: /teaching/2-centauri
+permalink: /project/2-centauri
 venue: "Center for High Performance Computing, SJTU"
 date: 2019-08-01
 location: "Shanghai, China"

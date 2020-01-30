@@ -2,7 +2,7 @@
 title: "Reachability Test in Preferential Attachment(PA) Network"
 collection: Social Network
 type: "Research Assistant"
-permalink: /teaching/5-reachability
+permalink: /project/5-reachability
 venue: " Intelligent Internet of Things (IIoT) Research Center, SJTU"
 date: 2018-07-01
 location: "Shanghai, China"
