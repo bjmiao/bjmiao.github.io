@@ -17,5 +17,4 @@ Cooperated with School of Mechanism,
 ![scaling](/images/prcl/scaling.png "Scaling")
 
 - The math kernel is *Stencil*, so I applied block-partition optimization to accelerate the kernel.
-
-- I further guess the initial value to decrease the iteration time for Stencil.
+- I further guess the initial value by solving linear system to decrease the number of iterations for stencil.

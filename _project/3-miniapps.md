@@ -15,5 +15,6 @@ I analyzed the performance of CCS-QCD in detail, and optimized the program on ou
 - I choosed CCS-QCD, and analyzed its performance characteristics in detail by identifying the math kernel, hotspot and bottleneck. (It is a BiCGstab kernel)
 - I modelled their performance under Roofline Model, ECM Model, etc.
 ![main](/images/ccs-qcd/roofline.png "Roofline Model")
+
 - I optimized them on specific platform by changing process affinity and by vectorization.
 ![main](/images/ccs-qcd/opt.png "Optimization")
