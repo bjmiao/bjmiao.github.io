@@ -1,5 +1,5 @@
 ---
-title: "De-anonymizability of Social Network: Through the Lens of Symmetry"
+title: "(PREPRINT) De-anonymizability of Social Network: Through the Lens of Symmetry"
 collection: preprint
 permalink: /publication/deanonymization
 excerpt: 'Analyzed the condition when the social network are vulnerable to malicious de-anonymization attack.'

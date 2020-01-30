@@ -1,5 +1,5 @@
 ---
-title: "CUBE-a new generation of cosmological N-body simulator"
+title: "CUBE: A New-generation Cosmological N-body Simulator"
 collection: HPC
 type: "Research Assistant"
 permalink: /project/5-CUBE

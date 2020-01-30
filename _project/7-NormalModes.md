@@ -1,5 +1,5 @@
 ---
-title: "Reproducibility Test on SC18 paper NormalModes"
+title: "Reproducibility Test on SC18 Paper *NormalModes*"
 collection: HPC
 type: "Research Assistant"
 permalink: /project/7-NormalModes
