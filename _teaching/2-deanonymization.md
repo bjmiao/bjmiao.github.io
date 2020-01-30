@@ -2,9 +2,9 @@
 title: "De-anonymization in Social Network: Theoretical Analysis on Vulnerability"
 collection: Social Network
 type: "Research Assistant"
-permalink: /teaching/4-deanonymization
+permalink: /project/2-deanonymization
 venue: " Intelligent Internet of Things (IIoT) Research Center, SJTU"
-date: 2019-07-01
+date: 2018-08-01
 location: "Shanghai, China"
 ---
 

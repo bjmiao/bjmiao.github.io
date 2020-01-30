@@ -43,9 +43,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Projects <!-- teaching -->
+Projects <!-- project -->
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.project %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

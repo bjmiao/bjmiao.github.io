@@ -2,7 +2,7 @@
 title: "Performance Modeling and Analyzing on HPC Mini-applications"
 collection: HPC
 type: "HPC Student Team Weekly Assignment"
-permalink: /teaching/3-miniapps
+permalink: /project/3-miniapps
 venue: "Center for High Performance Computing, SJTU"
 date: 2019-02-01
 location: "Shanghai, China"
